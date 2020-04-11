@@ -1,0 +1,1934 @@
+[
+    {
+        "askingPrice": "37943.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Watertown",
+            "id": "USA08C12",
+            "localDealerId": "408C12",
+            "name": "Valenti Audi",
+            "phoneMobile": "+18889278620",
+            "state": "CT",
+            "street": "600 Straits Tpke",
+            "website": "www.valentiaudiofwatertown.com",
+            "zipCode": "06795"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "White",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/1e416cc4-7807-49e4-b601-c76cc77d1e12.jpg",
+            "marketingName": "Glacier White metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDhDMTJlZmFmYmMyNjBhMGUwYWU3NDUxZA=",
+        "id": "VVNBMDhDMTJlZmFmYmMyNjBhMGUwYWU3NDUxZA=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/d1fae6be-2be0-4941-b73a-378ce345a1c4.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "35,521",
+        "model": "Audi S3 Sedan Prestige 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4RAVFM6w_FX66ceTv9ZFe8uHs0xOAElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq6nlr1cJPyd51afpuuOq27MZvjF970BXk1F59VFY6MGpHpP2Xf_8x-JQvNjf_ehqitalJDz-n-7Tula_6W9NgrOin7o3uho9oeddEZdmsU28f-uTdO5PVc12fS90Ne9VupSVrrIkVX6bWCLoWlx64flHFnQ1DfVCKWdXPXu_uCXsneiUd8vyNj9iQ1ezUnejZfjMj__kyz8LfPjI98zs7Y4H6GpY7rjsMJdg5sjVdylYsePl1D0r003Q1Tht7pBSyjVyzT59f_-t3sZrNjFei9DVTOvumeyX2ruv4fk6WdGZrge2s785g64m8zSrTtVM85yj3o9eb1mgtOGrr70suhrtpJ0O5hJnJ0yw9ZKpe3hdITZ790mwGniKDwly9At28w_yhSVR5gwYi2URjMVjDGOx9xSAWHrwBH0FxmLyKYAb0QQzniXYM8oVJsxaATdZCjX7OuXn56Qm5p1VKGq4OufXO2D2jYJl3wIGuFUMcEeHBvnEBzgGOfqWMPCVFuUUJBYlAnNQUX5BHgAZDOtr1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Prestige",
+        "vin": "WAUF1GFF0G1034839",
+        "weblink": "https://www.valentiaudi.com/certified/Audi/2016-Audi-S3-efafbc260a0e0ae7451db2d1b24c59fd.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "35325.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Watertown",
+            "id": "USA08C12",
+            "localDealerId": "408C12",
+            "name": "Valenti Audi",
+            "phoneMobile": "+18889278620",
+            "state": "CT",
+            "street": "600 Straits Tpke",
+            "website": "www.valentiaudiofwatertown.com",
+            "zipCode": "06795"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Gray",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/a5237329-5af7-43f8-b891-dadcddf50e02.jpg",
+            "marketingName": "Monsoon Gray metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDhDMTIwNWMxMjExOTBhMGUwYWRmMzM4Mg=",
+        "id": "VVNBMDhDMTIwNWMxMjExOTBhMGUwYWRmMzM4Mg=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/d1fae6be-2be0-4941-b73a-378ce345a1c4.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "29,007",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nIW7x5fBpP2bb-Qkzz2ypWfv54-2FZ0ESUkhqNszJ4ff3tG2Lcze9rXdvj9n3gueS6Go2rZPkapDc6aw1X4J77q09L9faqjGgqxGZN-X936qIqzablzx1M9ll6Pgvci66mqJ1KQmP_6f7tK7Vb_pbk-Cs6Kfuja4m47Hjvi9pyX1y79KCS5o1Z5y9V6mBrmberMJb8plWCeXhN1ifnCsq_rC4lRFdTUO9UMrZVc_eL24Jeyc65d2yvM2P2NDV8DKV3Cv6GsMev1dEm-n1lp_xrYe60dWw3HHZYS7BzJGr71KwYsfLqXtWppugq_m36879ji3HctnWZ_t8Fis0aXy8vhBdTZ-eteFaJauI0D09T949Y74bdoaVHV1N5mlWnaqZ5jlHvR-93rJAacNXX3tZdDXaSTsdzCXOTphg6yVT9_C6Qmz27pNgNfAUHxLk6Bfs5h_kC0uizBkwFssiGIvHGMZi7ykAsfTgCfoKjMXkUwA3oglmPEuwZ5QrTJi1Am6yFGr2dcrPz0lNzDurUNRwdc6vd8DsGwXLvgUMcKsY4I4ODfKJD3AMcvQtYeArLcopSCxKBOagovyCPADKPyM71AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF5G1005481",
+        "weblink": "https://www.valentiaudi.com/certified/Audi/2016-Audi-S3-05c121190a0e0adf3382d374caa88168.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "33799.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Watertown",
+            "id": "USA08C12",
+            "localDealerId": "408C12",
+            "name": "Valenti Audi",
+            "phoneMobile": "+18889278620",
+            "state": "CT",
+            "street": "600 Straits Tpke",
+            "website": "www.valentiaudiofwatertown.com",
+            "zipCode": "06795"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Blue",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/54d9dbe8-7e3c-47ce-a300-6c13520bebbe.jpg",
+            "marketingName": "Sepang Blue pearl"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDhDMTI2MGZjMDAxZTBhMGUwYWU3NGQwZQ=",
+        "id": "VVNBMDhDMTI2MGZjMDAxZTBhMGUwYWU3NGQwZQ=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Grey",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/7e8e2594-bb2a-4160-a830-e38eedf3086a.jpg",
+            "marketingName": "titanium gray-black-silver"
+        },
+        "isExactMatch": "true",
+        "mileage": "37,130",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nwfb_gDNXlfcaK76Ow-46U2cvaP17HSQhhaRmw5wcfn9P27Y4d9Pbevf2mH0veC6JrmbTOkmuBsmdzlrzJbjn3trzcq2tGgO6Gl89_X2Ljq_4LzDh9aeNbpwpUV13lqKrKVqXkvD4f7pP61r9pr81Cc6Kfure6GrilLXkt_RIet3v9Yzf_4X1xrOed83oaubNKrwln2mVUB5-g_XJuaLiD4tbGdHVNNQLpZxd9ez94pawd6JT3i3L2_yIDV1NtOD9mpxupbZ9XHemmPdc9M-pSg9DV8Nyx2WHuQQzR66-S8GKHS-n7lmZboKupt0sTFEva82tbaf8NFu-Lf7RW-azGF1Nn5614Volq4jQPT1P3j1jvht2hpUdXU3maVadqpnmOUe9H73eskBpw1dfe1l0NdpJOx3MJc5OmGDrJVP38LpCbPbuk2A18BQfEuToF-zmH-QLS6LMGTAWyyIYi8cYxmLvKQCx9OAJ-gqMxeRTADeiCWY8S7BnlCtMmLUCbrIUavZ1ys_PSU3MO6tQ1HB1zq93wOwbBcu-BQxwqxjgjg4N8okPcAxy9C1h4CstyilILEoE5qCi_II8AE7TkJfUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF9G1035034",
+        "weblink": "https://www.valentiaudi.com/certified/Audi/2016-Audi-S3-60fc001e0a0e0ae74d0e988485733256.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "33799.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Watertown",
+            "id": "USA08C12",
+            "localDealerId": "408C12",
+            "name": "Valenti Audi",
+            "phoneMobile": "+18889278620",
+            "state": "CT",
+            "street": "600 Straits Tpke",
+            "website": "www.valentiaudiofwatertown.com",
+            "zipCode": "06795"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Blue",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/54d9dbe8-7e3c-47ce-a300-6c13520bebbe.jpg",
+            "marketingName": "Sepang Blue pearl"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDhDMTI2MGZiZmQ4YzBhMGUwYWU3NGQwZQ=",
+        "id": "VVNBMDhDMTI2MGZiZmQ4YzBhMGUwYWU3NGQwZQ=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "35,243",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nwfb_gDNXlfcaK76Ow-46U2cvaP17HSQhhaRmw5wcfn9P27Y4d9Pbevf2mH0veC6JrmbTOkmuBsmdzlrzJbjn3trzcq2tGgO6Gl89_X2Ljq_4LzDh9aeNbpwpUV13lqKrKVqXkvD4f7pP61r9pr81Cc6Kfure6GrilLXkt_RIet3v9Yzf_4X1xrOed83oaubNKrwln2mVUB5-g_XJuaLiD4tbGdHVNNQLpZxd9ez94pawd6JT3i3L2_yIDV1NtOD9mpxupbZ9XHemmPdc9M-pSg9DV8Nyx2WHuQQzR66-S8GKHS-n7lmZboKupt0sTFEva82tbaf8NFu-Lf7RW-azGF1Nn5614Volq4jQPT1P3j1jvht2hpUdXU3maVadqpnmOUe9H73eskBpw1dfe1l0NdpJOx3MJc5OmGDrJVP38LpCbPbuk2A18BQfEuToF-zmH-QLS6LMGTAWyyIYi8cYxmLvKQCx9OAJ-gqMxeRTADeiCWY8S7BnlCtMmLUCbrIUavZ1ys_PSU3MO6tQ1HB1zq93wOwbBcu-BQxwqxjgjg4N8okPcAxy9C1h4CstyilILEoE5qCi_II8AE7TkJfUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF1G1069159",
+        "weblink": "https://www.valentiaudi.com/certified/Audi/2016-Audi-S3-60fbfd8c0a0e0ae74d0e9884693c87d5.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "35775.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Wallingford",
+            "id": "USA08C15",
+            "localDealerId": "408C15",
+            "name": "Audi of Wallingford",
+            "phoneMobile": "+18888377712",
+            "state": "CT",
+            "street": "800 S Colony Rd",
+            "website": "www.audiofwallingford.com",
+            "zipCode": "06492"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Red",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/ba83e75f-935d-4245-840c-b50034bdafbf.jpg",
+            "marketingName": "Misano Red pearl"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDhDMTVjZDcyOWY4MDBhMGUwYWRmMGJhYw=",
+        "id": "VVNBMDhDMTVjZDcyOWY4MDBhMGUwYWRmMGJhYw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "34,610",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4dlUY6mX6iLZaikT8EdxL88tAc1ykIQUkpoNc3L4_T1t2-LcTW_r3dtj9r3guSS6mlr-epXwc5JXfZquO666PZvhG9P3DnQ1zivtH-6e3ft29v6puj2iDw_9ZkwsRldTtC4l4fH_dJ_WtfpNf2sSnBX91L3R1egJPe-KuDSLbeL9W5-kc3-qarbre6Grea_Spax0lSWp8tvEEkHX4tILzz-yoKtpqBdKObvq2fvFLWHvRKe8W5a3-REbupppeicKeH_ax1Rd0lh6kI1j28t8qbXoaljuuOwwl2DmyNV3KVix4-XUPSvTTdDVVHyb8qezs8nRaPd82fX2S6e-vOBphK5m48OwOOlvYicL7FeKOsslSQbtf3QYXU3maVadqpnmOUe9H73eskBpw1dfe1l0NdpJOx3MJc5OmGDrJVP38LpCbPbuk2A18BQfEuToF-zmH-QLS6LMGTAWyyIYi8cYxmLvKQCx9OAJ-gqMxeRTADeiCWY8S7BnlCtMmLUCbrIUavZ1ys_PSU3MO6tQ1HB1zq93wOwbBcu-BQxwqxjgjg4N8okPcAxy9C1h4CstyilILEoE5qCi_II8AK17HUPUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF4G1012373",
+        "weblink": "https://www.audiofwallingford.com/certified/Audi/2016-Audi-S3-wallingford-ct-cd729f800a0e0adf0bac9faff59b158d.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "30998.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Burlington",
+            "id": "USA01A14",
+            "localDealerId": "401A14",
+            "name": "Audi Burlington",
+            "phoneMobile": "+18887665233",
+            "state": "MA",
+            "street": "62 Cambridge St",
+            "website": "www.burlingtonaudima.com",
+            "zipCode": "01803"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Blue",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/54d9dbe8-7e3c-47ce-a300-6c13520bebbe.jpg",
+            "marketingName": "Sepang Blue pearl"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDFBMTQ0MzhlNTE0MTBhMGUwYWU5NDhhMg=",
+        "id": "VVNBMDFBMTQ0MzhlNTE0MTBhMGUwYWU5NDhhMg=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "42,245",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nwfb_gDNXlfcaK76Ow-46U2cvaP17HSQhhaRmw5wcfn9P27Y4d9Pbevf2mH0veC6JrmbTOkmuBsmdzlrzJbjn3trzcq2tGgO6Gl89_X2Ljq_4LzDh9aeNbpwpUV13lqKrKVqXkvD4f7pP61r9pr81Cc6Kfure6GrilLXkt_RIet3v9Yzf_4X1xrOed83oaubNKrwln2mVUB5-g_XJuaLiD4tbGdHVNNQLpZxd9ez94pawd6JT3i3L2_yIDV1NtOD9mpxupbZ9XHemmPdc9M-pSg9DV8Nyx2WHuQQzR66-S8GKHS-n7lmZboKupt0sTFEva82tbaf8NFu-Lf7RW-azGF1Nn5614Volq4jQPT1P3j1jvht2hpUdXU3maVadqpnmOUe9H73eskBpw1dfe1l0NdpJOx3MJc5OmGDrJVP38LpCbPbuk2A18BQfEuToF-zmH-QLS6LMGTAWyyIYi8cYxmLvKQCx9OAJ-gqMxeRTADeiCWY8S7BnlCtMmLUCbrIUavZ1ys_PSU3MO6tQ1HB1zq93wOwbBcu-BQxwqxjgjg4N8okPcAxy9C1h4CstyilILEoE5qCi_II8AE7TkJfUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF1G1035979",
+        "weblink": "https://www.audiburlington.com/certified/Audi/2016-Audi-S3-burlington-ma-438e51410a0e0ae948a2c25cf215bb61.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "49998.00",
+        "body": "Coup\u00e9",
+        "bodyStyle": "Coupe",
+        "carline": "TTS",
+        "consumption": {
+            "city": "23",
+            "highway": "27"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Brookline",
+            "id": "USA01A28",
+            "localDealerId": "401A28",
+            "name": "Audi Brookline",
+            "phoneMobile": "+18887145719",
+            "state": "MA",
+            "street": "308 Boylston St",
+            "website": "www.audibrookline.com",
+            "zipCode": "02445"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Red",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/b32c87a5-6d55-42ac-9e72-b7884fa039a2.jpg",
+            "marketingName": "Tango Red metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDFBMjhkMzUwZjQ1OTBhMGUwYWU4MzA3Yw=",
+        "id": "VVNBMDFBMjhkMzUwZjQ1OTBhMGUwYWU4MzA3Yw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/da3c9958-bfe3-4d96-86f1-ca5d3516ebe0.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "8,099",
+        "model": "Audi TTS Coup\u00e9 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMDjUFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCQ9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0oWLw344Xq9sVX0viE4z6tn2MtscU2q4SBu6REN7WiRDcvNTcf5BoxsOsk6spCV3Wzz-hx6po24_AUpuzLnFPPgySkkNRE9setSmyftiOop_bWAW-5h6dL06rQ1UjHnGZJVp3HruHu7RVipTPpSYDqOnQ1lkx_DnuU2lXfLj0WtDbtolvoWdlMdDVzuk5s0srdbFP30lH3Ybb4nGrmrOPoarZf-tUbpyOc6-K5-ETBXy_H3J8OO9DVWBQ_5DT6Uy3oEL7_UMqpQ93TWlUZ0dWkti3dLnxnGe9d8_u2t-UXuQdapAigq1m0uX97xHrXxT5f2faa5q9fz1ScPBVdzeWdr2_5Pkju-GfMFFF70mRJ0Gqbx-hqcm-0rNn66PDPlMeldTcrjj7dX1F4FKwGngpDghz9gt38g3xhyYY5GsZi2QRj8ZTCWOwbC0AsbXgiewFjMUUVwI1ohBnPEuwZ5QoTZq2AmyyFmqWc8vNzUhPzzioUNVyd8-sdMEtFwbJUAQPcKga4o0ODfOIDHIMcfUsY-EqLcgoSixKBqboovyAPAJhtr3hoBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "vin": "TRUC1AFV8G1016623",
+        "year": 2016
+    },
+    {
+        "askingPrice": "34975.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Hyannis",
+            "id": "USA01A31",
+            "localDealerId": "401A31",
+            "name": "Audi Cape Cod",
+            "phoneMobile": "+18887679840",
+            "state": "MA",
+            "street": "25 Falmouth Rd.",
+            "website": "www.audicapecod.com",
+            "zipCode": "02601"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Gray",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/a5237329-5af7-43f8-b891-dadcddf50e02.jpg",
+            "marketingName": "Monsoon Gray metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDFBMzE1YjAzNWNkNTBhMGUwYWRmMjdhMg=",
+        "id": "VVNBMDFBMzE1YjAzNWNkNTBhMGUwYWRmMjdhMg=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/d1fae6be-2be0-4941-b73a-378ce345a1c4.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "31,128",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nIW7x5fBpP2bb-Qkzz2ypWfv54-2FZ0ESUkhqNszJ4ff3tG2Lcze9rXdvj9n3gueS6Gpq-etVws9JXvVpuu646vZshm9M3zvQ1YjMm_L-b1XEVZvNS566mewydPwXORddTdG6lITH_9N9WtfqN_2tSXBW9FP3RlejJ_S8K-LSLLaJ9299ks79qarZru-Frua9Spey0lWWpMpvE0sEXYtLLzz_yIKupqFeKOXsqmfvF7eEvROd8m5Z3uZHbOhqeJlK7hV9jWGP3yuizfR6y8_41kPd6GpY7rjsMJdg5sjVdylYsePl1D0r003Q1fzbded-x5ZjuWzrs30-ixWaND5eX4iuZrVf0BZ1CdWnWnNUTVi6b5fXaocbo6vJPM2qUzXTPOeo96PXWxYobfjqay-LrkY7aaeDucTZCRNsvWTqHl5XiM3efRKsBp7iQ4Ic_YLd_IN8YUmUOQPGYlkEY_EYw1jsPQUglh48QV-BsZh8CuBGNMGMZwn2jHKFCbNWwE2WQs2-Tvn5OamJeWcVihquzvn1Dph9o2DZt4ABbhUD3NGhQT7xAY5Bjr4lDHylRTkFiUWJwBxUlF-QBwAuYKXj1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFFXG1067314",
+        "weblink": "https://www.audicapecod.com/certified/Audi/2016-Audi-S3-5b035cd50a0e0adf27a25a301991acc8.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "27980.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Rutland",
+            "id": "USA01E53",
+            "localDealerId": "401E53",
+            "name": "Audi Rutland",
+            "phoneMobile": "+18887067240",
+            "state": "VT",
+            "street": "176 Us Route 7 S",
+            "website": "www.audirutland.com",
+            "zipCode": "05701"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Gray",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/a5237329-5af7-43f8-b891-dadcddf50e02.jpg",
+            "marketingName": "Monsoon Gray metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDFFNTM1MzNiZjUxZjBhMGUwYWU3NGQwZQ=",
+        "id": "VVNBMDFFNTM1MzNiZjUxZjBhMGUwYWU3NGQwZQ=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "44,204",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nIW7x5fBpP2bb-Qkzz2ypWfv54-2FZ0ESUkhqNszJ4ff3tG2Lcze9rXdvj9n3gueS6Go2rZPkapDc6aw1X4J77q09L9faqjGgqxGZN-X936qIqzablzx1M9ll6Pgvci66mqJ1KQmP_6f7tK7Vb_pbk-Cs6Kfuja4mTllLfkuPpNf9Xs_4_V9YbzzredeMrmberMJb8plWCeXhN1ifnCsq_rC4lRFdTUO9UMrZVc_eL24Jeyc65d2yvM2P2NDV8DKV3Cv6GsMev1dEm-n1lp_xrYe60dWw3HHZYS7BzJGr71KwYsfLqXtWppugq_m36879ji3HctnWZ_t8Fis0aXy8vhBdTZ-eteFaJauI0D09T949Y74bdoaVHV1N5mlWnaqZ5jlHvR-93rJAacNXX3tZdDXaSTsdzCXOTphg6yVT9_C6Qmz27pNgNfAUHxLk6Bfs5h_kC0uizBkwFssiGIvHGMZi7ykAsfTgCfoKjMXkUwA3oglmPEuwZ5QrTJi1Am6yFGr2dcrPz0lNzDurUNRwdc6vd8DsGwXLvgUMcKsY4I4ODfKJD3AMcvQtYeArLcopSCxKBOagovyCPAAT-t4z1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF5G1020241",
+        "weblink": "https://www.audirutland.com/certified/Audi/2016-Audi-S3-rutland-vt-533bf51f0a0e0ae74d0e9884ee1fd1ca.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "33990.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Greenwich",
+            "id": "USA08C07",
+            "localDealerId": "408C07",
+            "name": "Audi Greenwich",
+            "phoneMobile": "+18889286790",
+            "state": "CT",
+            "street": "181 W Putnam Ave",
+            "website": "www.audigreenwich.com",
+            "zipCode": "06830"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "White",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/1e416cc4-7807-49e4-b601-c76cc77d1e12.jpg",
+            "marketingName": "Glacier White metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDhDMDc1NWM5ZjBjYTBhMGUwYWU3Nzc0Mw=",
+        "id": "VVNBMDhDMDc1NWM5ZjBjYTBhMGUwYWU3Nzc0Mw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "8,925",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4RAVFM6w_FX66ceTv9ZFe8uHs0xOAElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq6nlr1cJPyd51afpuuOq27MZvjF970BXk1F59VFY6MGpHpP2Xf_8x-JQvNjf_ehqitalJDz-n-7Tula_6W9NgrOin7o3uho9oeddEZdmsU28f-uTdO5PVc12fS90Ne9VupSVrrIkVX6bWCLoWlx64flHFnQ1DfVCKWdXPXu_uCXsneiUd8vyNj9iQ1ezUnejZfjMj__kyz8LfPjI98zs7Y4H6GpY7rjsMJdg5sjVdylYsePl1D0r003Q1Tht7pBSyjVyzT59f_-t3sZrNjFei9DVTOvumeyX2ruv4fk6WdGZrge2s785g64m8zSrTtVM85yj3o9eb1mgtOGrr70suhrtpJ0O5hJnJ0yw9ZKpe3hdITZ790mwGniKDwly9At28w_yhSVR5gwYi2URjMVjDGOx9xSAWHrwBH0FxmLyKYAb0QQzniXYM8oVJsxaATdZCjX7OuXn56Qm5p1VKGq4OufXO2D2jYJl3wIGuFUMcEeHBvnEBzgGOfqWMPCVFuUUJBYlAnNQUX5BHgAZDOtr1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF9G1004950",
+        "weblink": "https://www.audigreenwich.com/certified/Audi/2016-Audi-S3-Greenwich-CT-06830-55c9f0ca0a0e0ae777431addfe4bfb4e.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "33997.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Freehold",
+            "id": "USA08B03",
+            "localDealerId": "408B03",
+            "name": "Audi Freehold",
+            "state": "NJ",
+            "street": "3561 Us Route 9",
+            "website": "www.audifreehold.com",
+            "zipCode": "07728"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Gray",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/a5237329-5af7-43f8-b891-dadcddf50e02.jpg",
+            "marketingName": "Monsoon Gray metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDhCMDNiMjdjOTQ5YjBhMGUwYWRmMGJhYw=",
+        "id": "VVNBMDhCMDNiMjdjOTQ5YjBhMGUwYWRmMGJhYw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/d1fae6be-2be0-4941-b73a-378ce345a1c4.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "32,070",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nIW7x5fBpP2bb-Qkzz2ypWfv54-2FZ0ESUkhqNszJ4ff3tG2Lcze9rXdvj9n3gueS6Gpq-etVws9JXvVpuu646vZshm9M3zvQ1YjMm_L-b1XEVZvNS566mewydPwXORddTdG6lITH_9N9WtfqN_2tSXBW9FP3RlejJ_S8K-LSLLaJ9299ks79qarZru-Frua9Spey0lWWpMpvE0sEXYtLLzz_yIKuZmtRXcQ-WdVr7yK0-q-XuZa3hnBOQFfDy1Ryr-hrDHv8XhFtptdbfsa3HupGV8Nyx2WHuQQzR66-S8GKHS-n7lmZboKu5t-uO_c7thzLZVuf7fNZrNCk8fH6QnQ1q_2CtqhLqD7VmqNqwtJ9u7xWO9wYXU3maVadqpnmOUe9H73eskBpw1dfe1l0NdpJOx3MJc5OmGDrJVP38LpCbPbuk2A18BQfEuToF-zmH-QLS6LMGTAWyyIYi8cYxmLvKQCx9OAJ-gqMxeRTADeiCWY8S7BnlCtMmLUCbrIUavZ1ys_PSU3MO6tQ1HB1zq93wOwbBcu-BQxwqxjgjg4N8okPcAxy9C1h4CstyilILEoE5qCi_II8ACXtW7XUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF3G1027706",
+        "weblink": "https://www.audifreehold.com/certified/Audi/2016-Audi-S3-freehold-b27c949b0a0e0adf0bac9fafcfd0b772.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "30989.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Allentown",
+            "id": "USA06A40",
+            "localDealerId": "406A40",
+            "name": "Audi Allentown",
+            "phoneMobile": "8884782645",
+            "state": "PA",
+            "street": "4725 Hamilton Blvd",
+            "website": "www.audiallentown.com",
+            "zipCode": "18103"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "White",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/1e416cc4-7807-49e4-b601-c76cc77d1e12.jpg",
+            "marketingName": "Glacier White metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDZBNDA0MjQ4MjY0MzBhMGUwYTE3MjdkOA=",
+        "id": "VVNBMDZBNDA0MjQ4MjY0MzBhMGUwYTE3MjdkOA=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Red",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/2c58bd1a-a4f3-43f9-a885-91a21d9f9f74.jpg",
+            "marketingName": "magma red-black-magma red stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "31,940",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMLjVFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCR9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4RAVFM6w_FX66ceTv9ZFe8uHs0xOAElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq6nlr1cJPyd51afpuuOq27MZvjF970BXk1F59VFY6MGpHpP2Xf_8x-JQvNjf_ehqitalJDz-n-7Tula_6W9NgrOin7o3uho9oeddEZdmsU28f-uTdO5PVc12fS90Ne9VupSVrrIkVX6bWCLoWlx64flHFnQ1W4vqIvbJql57F6HVf73Mtbw1hHMCupqVuhstw2d-_Cdf_lngw0e-Z2ZvdzxAV8Nyx2WHuQQzR66-S8GKHS-n7lmZboKuxmlzh5RSrpFr9un7-2_1Nl6zifFahK4m8zSrTtVM85yj3o9eb1mgtOGrr70suhrtpJ0O5hJnJ0yw9ZKpe3hdITZ790mwGnhqDgly9At28w_yhSU_5gwYi2URjMVjDGOx9xSAWLrwxHoFxmLyKYAb0QQzniXYM8oVJsxaATdZCjVrOuXn56Qm5p1VKGq4OufXO2DWjIJlzQIGuFUMcEeHBvnEBzgGOfqWMPCVFuUUJBYlAnNHUX5BHgCMxe9dsAQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF2G1040169",
+        "weblink": "https://www.audiallentown.com/certified/Audi/2016-Audi-S3-Allentown-PA-424826430a0e0a1727d8b7d62a30b724.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "33990.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Turnersville",
+            "id": "USA08B33",
+            "localDealerId": "408B33",
+            "name": "Audi Turnersville",
+            "phoneMobile": "+18888970584",
+            "state": "NJ",
+            "street": "3751 Route 42",
+            "website": "www.auditurnersville.com",
+            "zipCode": "08012"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Silver",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/642ad953-578e-4bf0-ab14-e3687dcad560.jpg",
+            "marketingName": "Florett Silver metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDhCMzMzYzEzOWQ4NjBhMGUwYTZiMjQ5Mw=",
+        "id": "VVNBMDhCMzMzYzEzOWQ4NjBhMGUwYTZiMjQ5Mw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "19,295",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nsY_HI7pHYufL6_nsHDtFnQwfW06dB5KQQlKzYU4Ov7-nbVucu-ltvXt7zL4XPJdEV1PLX68Sfk7yqk_TdcdVt2czfGP63oGuZp74IS53HuHFS7SEfx4PnZQwQ7u9Cl1N0bqUhMf_031a1-o3_a1JcFb0U_dGV6Mn9Lwr4tIston3b32Szv2pqtmu74Wu5r1Kl7LSVZakym8TSwRdi0svPP_Igq5ma1FdxD5Z1WvvIrT6r5e5lreGcE5AV3Ms237pu3c7PwS2r5xWnJMdxWN41B5dDcsdlx3mEswcufouBSt2vJy6Z2W6CbqaSb8Pnr_wl6HG-Zmyw5dd3_e-c_weh67mfnHu254vwcWLvpkuS5HesvcEt-4ddDWZp1l1qmaa5xz1fvR6ywKlDV997WXR1Wgn7XQwlzg7YYKtl0zdw-sKsdm7T4LVwFN8SJCjX7Cbf5AvLIkyZ8BYLItgLB5jGIu9pwDE0oMn6CswFpNPAdyIJpjxLMGeUa4wYdYKuMlSqNnXKT8_JzUx76xCUcPVOb_eAbNvFCz7FjDArWKAOzo0yCc-wDHI0beEga-0KKcgsSgRmIOK8gvyAGjb_NDUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFFXG1021885",
+        "weblink": "https://www.auditurnersville.com/certified/Audi/2016-Audi-S3-3c139d860a0e0a6b24937299801dc6db.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "29739.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Wilmington",
+            "id": "USA06B05",
+            "localDealerId": "406B05",
+            "name": "Audi Wilmington",
+            "phoneMobile": "+18889024494",
+            "state": "DE",
+            "street": "1300 N Union St",
+            "website": "www.wilmingtonaudide.com",
+            "zipCode": "19806"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Blue",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/54d9dbe8-7e3c-47ce-a300-6c13520bebbe.jpg",
+            "marketingName": "Sepang Blue pearl"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDZCMDUzYTA4MjBiNDBhMGUwYWU3Nzc0Mw=",
+        "id": "VVNBMDZCMDUzYTA4MjBiNDBhMGUwYWU3Nzc0Mw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "44,007",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nwfb_gDNXlfcaK76Ow-46U2cvaP17HSQhhaRmw5wcfn9P27Y4d9Pbevf2mH0veC6JrmbTOkmuBsmdzlrzJbjn3trzcq2tGgO6Gl89_X2Ljq_4LzDh9aeNbpwpUV13lqKrKVqXkvD4f7pP61r9pr81Cc6Kfure6GruMWq-eD6_aNXLyRMKN5V9_Hc91UYYXc28WYW35DOtEsrDb7A-OVdU_GFxKyO6mq1FdRH7ZFWvvYvQ6r9e5lreGsI5AV1NtOD9mpxupbZ9XHemmPdc9M-pSg9DV8Nyx2WHuQQzR66-S8GKHS-n7lmZboKupt0sTFEva82tbaf8NFu-Lf7RW-azGF1Nn5614Volq4jQPT1P3j1jvht2hpUdXU3maVadqpnmOUe9H73eskBpw1dfe1l0NdpJOx3MJc5OmGDrJVP38LpCbPbuk2A18BQfEuToF-zmH-QLS6LMGTAWyyIYi8cYxmLvKQCx9OAJ-gqMxeRTADeiCWY8S7BnlCtMmLUCbrIUavZ1ys_PSU3MO6tQ1HB1zq93wOwbBcu-BQxwqxjgjg4N8okPcAxy9C1h4CstyilILEoE5qCi_II8AJQOnUTUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF1G1045072",
+        "weblink": "https://www.audiwilmingtonde.com/certified/Audi/2016-Audi-S3-3a0820b40a0e0ae777431adda14848ac.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "32499.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Greensboro",
+            "id": "USA09B23",
+            "localDealerId": "409B23",
+            "name": "Audi Greensboro",
+            "phoneMobile": "+18889044137",
+            "state": "NC",
+            "street": "5601 Roanne Way # 200",
+            "website": "www.audigreensboro.com",
+            "zipCode": "27409"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "White",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/1e416cc4-7807-49e4-b601-c76cc77d1e12.jpg",
+            "marketingName": "Glacier White metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDlCMjNhYzU2ODZiNjBhMGUwYWU4MjUyMQ=",
+        "id": "VVNBMDlCMjNhYzU2ODZiNjBhMGUwYWU4MjUyMQ=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "24,015",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4RAVFM6w_FX66ceTv9ZFe8uHs0xOAElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq9m0TpKrQXKns9Z8Ce65t_a8XGurxoCuJqPy6qOw0INTPSbtu_75j8WheLG_-9HVFK1LSXj8P92nda1-09-aBGdFP3VvdDVxylryW3okve73esbv_8J641nPu2Z0NfNmFd6Sz7RKKA-_wfrkXFHxh8WtjOhqGuqFUs6uevZ-cUvYO9Ep75blbX7Ehq5mpe5Gy_CZH__Jl38W-PCR75nZ2x0P0NWw3HHZYS7BzJGr71KwYsfLqXtWppugq3Ha3CGllGvkmn36_v5bvY3XbGK8FqGr6dOzNlyrZBURuqfnybtnzHfDzrCyo6vJPM2qUzXTPOeo96PXWxYobfjqay-LrkY7aaeDucTZCRNsvWTqHl5XiM3efRKsBp7iQ4Ic_YLd_IN8YUmUOQPGYlkEY_EYw1jsPQUglh48QV-BsZh8CuBGNMGMZwn2jHKFCbNWwE2WQs2-Tvn5OamJeWcVihquzvn1Dph9o2DZt4ABbhUD3NGhQT7xAY5Bjr4lDHylRTkFiUWJwBxUlF-QBwBqeYk31AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1HFFXG1034027",
+        "weblink": "https://flowaudiofgreensboro.aoadealer.com/certified/Audi/2016-Audi-S3-ac5686b60a0e0ae825211e05ab23aa7a.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "35950.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Martinez",
+            "id": "USA07A14",
+            "localDealerId": "407A14",
+            "name": "Gerald Jones Audi",
+            "phoneMobile": "+18887085379",
+            "state": "GA",
+            "street": "4022 Washington Rd",
+            "website": "www.geraldjonesaudiofmartinez.com",
+            "zipCode": "30907"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Silver",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/642ad953-578e-4bf0-ab14-e3687dcad560.jpg",
+            "marketingName": "Florett Silver metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDdBMTQxZTQ5YTBjOTBhMGUwYWRmMzM4Mg=",
+        "id": "VVNBMDdBMTQxZTQ5YTBjOTBhMGUwYWRmMzM4Mg=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/d1fae6be-2be0-4941-b73a-378ce345a1c4.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "33,875",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nsY_HI7pHYufL6_nsHDtFnQwfW06dB5KQQlKzYU4Ov7-nbVucu-ltvXt7zL4XPJdEV1PLX68Sfk7yqk_TdcdVt2czfGP63oGuZp74IS53HuHFS7SEfx4PnZQwQ7u9Cl1N0bqUhMf_031a1-o3_a1JcFb0U_dGV6Mn9Lwr4tIston3b32Szv2pqtmu74Wu5r1Kl7LSVZakym8TSwRdi0svPP_Igq5ma1FdxD5Z1WvvIrT6r5e5lreGcE5AV3Ms237pu3c7PwS2r5xWnJMdxWN41B5dDcsdlx3mEswcufouBSt2vJy6Z2W6CbqaSb8Pnr_wl6HG-Zmyw5dd3_e-c_weh67mfnHu254vwcWLvpkuS5HesvcEt-4ddDWZp1l1qmaa5xz1fvR6ywKlDV997WXR1Wgn7XQwlzg7YYKtl0zdw-sKsdm7T4LVwFN8SJCjX7Cbf5AvLIkyZ8BYLItgLB5jGIu9pwDE0oMn6CswFpNPAdyIJpjxLMGeUa4wYdYKuMlSqNnXKT8_JzUx76xCUcPVOb_eAbNvFCz7FjDArWKAOzo0yCc-wDHI0beEga-0KKcgsSgRmIOK8gvyAGjb_NDUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF3G1071852",
+        "weblink": "https://www.augustaaudi.com/certified/Audi/2016-Audi-S3-1e49a0c90a0e0adf3382d374a1b873b7.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "31600.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Atlanta",
+            "id": "USA07A09",
+            "localDealerId": "407A09",
+            "name": "Audi Atlanta",
+            "phoneMobile": "+18887166433",
+            "state": "GA",
+            "street": "5805 Peachtree Blvd.",
+            "website": "www.audiatlanta.com",
+            "zipCode": "30341"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/37486e07-b770-426e-9faa-6a83d9d6791d.jpg",
+            "marketingName": "Mythos Black metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDdBMDkwMzUxNzM1MTBhMGUwYTZiMGIxMw=",
+        "id": "VVNBMDdBMDkwMzUxNzM1MTBhMGUwYTZiMGIxMw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "31,182",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0ncfpNX-ZdIxlunke3exV4_2QW-JXMBElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq9m0TpKrQXKns9Z8Ce65t_a8XGurxoCuRvEgX3DzidJJxtb8PMJO56TqTp3vRldTtC4l4fH_dJ_WtfpNf2sSnBX91L3R1dxj1HzxfH7RqpeTJxRuKvv473qqjTC6mnmzCm_JZ1ollIffYH1yrqj4w-JWRnQ1W4vqIvbJql57F6HVf73Mtbw1hHMCuhq7uoxb5xW1TJT8O6faF6RoHWPx4EZXw3LHZYe5BDNHrr5LwYodL6fuWZlugq7mvVTB1YDnVR_PWL-wkff5vW9XtWUYupoHf1bYHlDlCNHMZVeK1_x-e3tvuS66mszTrDpVM81zjno_er1lgdKGr772suhqtJN2OphLnJ0wwdZLpu7hdYXY7N0nwWrgKT4kyNEv2M0_yBeWRJkzYCyWRTAWjzGMxd5TAGLpwRP0FRiLyacAbkQTzHiWYM8oV5gwawXcZCnU7OuUn5-Tmph3VqGo4eqcX--A2TcKln0LGOBWMcAdHRrkEx_gGOToW8LAV1qUU5BYlAjMQUX5BXkAK_a1CdQEAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF4G1023812",
+        "weblink": "https://www.audiatlanta.com/certified/Audi/2016-Audi-S3-atlanta-ga-035173510a0e0a6b0b1328dfa9a767bd.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "46295.00",
+        "body": "Coup\u00e9",
+        "bodyStyle": "Coupe",
+        "carline": "TTS",
+        "consumption": {
+            "city": "23",
+            "highway": "27"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Marietta",
+            "id": "USA07A15",
+            "localDealerId": "407A15",
+            "name": "Audi Marietta",
+            "phoneMobile": "+18889031318",
+            "state": "GA",
+            "street": "1141 Cobb Pkwy S",
+            "website": "www.audimarietta.com",
+            "zipCode": "30060"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "White",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/1e416cc4-7807-49e4-b601-c76cc77d1e12.jpg",
+            "marketingName": "Glacier White metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDdBMTUzYTFkOGNiMDBhMGUwYWVhNGE5Yw=",
+        "id": "VVNBMDdBMTUzYTFkOGNiMDBhMGUwYWVhNGE5Yw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/da3c9958-bfe3-4d96-86f1-ca5d3516ebe0.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "15,629",
+        "model": "Audi TTS Coup\u00e9 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMDjUFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCQ9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0oWLw344Xq9sVX0viE4z6tn2MtscU2q4SBu6REN7WiRDcvNTcf5BoxsOskJh6TEhVp6Y5dZ9W5-cYvudZJtRsNQRJSSGoi--NWJbZP2xHUU3vrgLfcw9OlaVXoaqRjTrMkq85j13D39gqx0pn0JEB1HboaS6Y_hz1K7apvlx4LWpt20S30rGwmupo5XSc2aeVutql76aj7MFt8TjVz1nF0Nf3edwQkvc9lre3V5rvuFG8UFZS2Hl3NpYNd_-yzj4c_MTRcLny6reaxe_QFdDWpbUu3C99ZxnvX_L7tbflF7oEWKQLoahZt7t8esd51sc9Xtr2m-evXMxUnT0VX05156Zy0v3IWs4nbhiZ14ej1exbPR1eTe6NlzdZHh3-mPC6tu1lx9On-isKjYDXwVBgS5OgX7OYf5AtLNszRMBbLJhiLpxTGYt9YAGJpwxPZCxiLKaoAbkQjzHiWYM8oV5gwawXcZCnULOWUn5-Tmph3VqGo4eqcX--AWSoKlqUKGOBWMcAdHRrkEx_gGOToW8LAV1qUU5BYlAhM1UX5BXkA6uKZb2gEAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "vin": "TRUC1AFV3G1016576",
+        "weblink": "http://www.jimellisaudimarietta.com/certified/Audi/2016-Audi-TTS-marietta-ga-3a1d8cb00a0e0aea4a9cbb0164948d90.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "29987.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Orlando",
+            "id": "USA05A56",
+            "localDealerId": "405A56",
+            "name": "Audi South Orlando",
+            "phoneMobile": "+18887166341",
+            "state": "FL",
+            "street": "4725 Vineland Road",
+            "website": "www.audisouthorlando.com",
+            "zipCode": "32811"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Blue",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/54d9dbe8-7e3c-47ce-a300-6c13520bebbe.jpg",
+            "marketingName": "Sepang Blue pearl"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDVBNTY0Y2U2YjIyMzBhMGQwYzE0NGMyOA=",
+        "id": "VVNBMDVBNTY0Y2U2YjIyMzBhMGQwYzE0NGMyOA=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "38,417",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nwfb_gDNXlfcaK76Ow-46U2cvaP17HSQhhaRmw5wcfn9P27Y4d9Pbevf2mH0veC6JrqaWv14l_JzkVZ-m646rbs9m-Mb0vQNdja-e_r5Fx1f8F5jw-tNGN86UqK47S9HVFK1LSXj8P92nda1-09-aBGdFP3VvdDV6Qs-7Ii7NYpt4_9Yn6dyfqprt-l7oat6rdCkrXWVJqvw2sUTQtbj0wvOPLOhqthbVReyTVb32LkKr_3qZa3lrCOcEdDXRgvdrcrqV2vZx3Zli3nPRP6cqPQxdDcsdlx3mEswcufouBSt2vJy6Z2W6CbqadrMwRb2sNbe2nfLTbPm2-Edvmc9idDVBqYsuR_5yfKWsUWi7zcA4Y6mkCBu6mszTrDpVM81zjno_er1lgdKGr772suhqtJN2OphLnJ0wwdZLpu7hdYXY7N0nwWrgKT4kyNEv2M0_yBeWRJkzYCyWRTAWjzGMxd5TAGLpwRP0FRiLyacAbkQTzHiWYM8oV5gwawXcZCnU7OuUn5-Tmph3VqGo4eqcX--A2TcKln0LGOBWMcAdHRrkEx_gGOToW8LAV1qUU5BYlAjMQUX5BXkAgeTFIdQEAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF5G1015511",
+        "weblink": "https://www.audisouthorlando.com/certified/Audi/2016-Audi-S3-4ce6b2230a0d0c144c286c41ecd3eea4.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "29984.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Irondale",
+            "id": "USA07B08",
+            "localDealerId": "407B08",
+            "name": "Audi Birmingham",
+            "phoneMobile": "+18889297710",
+            "state": "AL",
+            "street": "1314 Grants Mill Way",
+            "website": "www.audiofbirmingham.com",
+            "zipCode": "35210"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Gray",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/a5237329-5af7-43f8-b891-dadcddf50e02.jpg",
+            "marketingName": "Monsoon Gray metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDdCMDg2M2VhNjUwZjBhMGUwYWU5NDhhMg=",
+        "id": "VVNBMDdCMDg2M2VhNjUwZjBhMGUwYWU5NDhhMg=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "30,040",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nIW7x5fBpP2bb-Qkzz2ypWfv54-2FZ0ESUkhqNszJ4ff3tG2Lcze9rXdvj9n3gueS6Go2rZPkapDc6aw1X4J77q09L9faqjGgqxGZN-X936qIqzablzx1M9ll6Pgvci66mqJ1KQmP_6f7tK7Vb_pbk-Cs6Kfuja4mTllLfkuPpNf9Xs_4_V9YbzzredeMrmberMJb8plWCeXhN1ifnCsq_rC4lRFdzdaiuoh9sqrX3kVo9V8vcy1vDeGcgK6Gl6nkXtHXGPb4vSLaTK-3_IxvPdSNrobljssOcwlmjlx9l4IVO15O3bMy3QRdzb9dd-53bDmWy7Y-2-ezWKFJ4-P1hehq-vSsDdcqWUWE7ul58u4Z892wM6zs6GoyT7PqVM00zznq_ej1lgVKG7762suiq9FO2ulgLnF2wgRbL5m6h9cVYrN3nwSrgaf4kCBHv2A3_yBfWBJlzoCxWBbBWDzGMBZ7TwGIpQdP0FdgLCafArgRTTDjWYI9o1xhwqwVcJOlULOvU35-Tmpi3lmFooarc369A2bfKFj2LWCAW8UAd3RokE98gGOQo28JA19pUU5BYlEiMAcV5RfkAQAYdyBl1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF2G1118224",
+        "weblink": "https://www.audiofbirmingham.com/certified/Audi/2016-Audi-S3-Birmingham-63ea650f0a0e0ae948a2c25c4b2dcf17.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "27215.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Cincinnati",
+            "id": "USA03A31",
+            "localDealerId": "403A31",
+            "name": "Audi Cincinnati East",
+            "phoneMobile": "+18887918289",
+            "state": "OH",
+            "street": "8639 Beechmont Ave",
+            "website": "www.audicincinnatieast.com",
+            "zipCode": "45255"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Red",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/ba83e75f-935d-4245-840c-b50034bdafbf.jpg",
+            "marketingName": "Misano Red pearl"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDNBMzE4MjJjZWMwMTBhMGUwYWRmNjY3Mw=",
+        "id": "VVNBMDNBMzE4MjJjZWMwMTBhMGUwYWRmNjY3Mw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "41,715",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4dlUY6mX6iLZaikT8EdxL88tAc1ykIQUkpoNc3L4_T1t2-LcTW_r3dtj9r3guSS6mk3rJLkaJHc6a82X4J57a8_LtbZqDOhqnFfaP9w9u_ft7P1TdXtEHx76zZhYjK6maF1KwuP_6T6ta_Wb_tYkOCv6qXujq4lT1pLf0iPpdb_XM37_F9Ybz3reNaOrmTer8JZ8plVCefgN1ifnioo_LG5lRFeztaguYp-s6rV3EVr918tcy1tDOCegq5mmd6KA96d9TNUljaUH2Ti2vcyXWouuhuWOyw5zCWaOXH2XghU7Xk7dszLdBF1Nxbcpfzo7mxyNds-XXW-_dOrLC55G6Gr69KwN1ypZRYTu6Xny7hnz3bAzrOzoajJPs-pUzTTPOer96PWWBUobvvray6Kr0U7a6WAucXbCBFsvmbqH1xVis3efBKuBp_iQIEe_YDf_IF9YEmXOgLFYFsFYPMYwFntPAYilB0_QV2AsJp8CuBFNMONZgj2jXGHCrBVwk6VQs69Tfn5OamLeWYWihqtzfr0DZt8oWPYtYIBbxQB3dGiQT3yAY5CjbwkDX2lRTkFiUSIwBxXlF-QBAKB5YbTUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF0G1012340",
+        "weblink": "https://www.audicincinnatieast.com/certified/Audi/2016-Audi-S3-cincinnati-ohio-822cec010a0e0adf66732d67a311f9a0.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "35800.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Cincinnati",
+            "id": "USA03A34",
+            "localDealerId": "403A34",
+            "name": "The Audi Connection",
+            "phoneMobile": "+18887072142",
+            "state": "OH",
+            "street": "9678 Montgomery Rd",
+            "website": "www.theaudiconnectionaudi.com",
+            "zipCode": "45242"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "White",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/1e416cc4-7807-49e4-b601-c76cc77d1e12.jpg",
+            "marketingName": "Glacier White metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDNBMzQ4MTE5NGRlODBhMGUwYTZiNjVhZQ=",
+        "id": "VVNBMDNBMzQ4MTE5NGRlODBhMGUwYTZiNjVhZQ=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Grey",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/7e8e2594-bb2a-4160-a830-e38eedf3086a.jpg",
+            "marketingName": "titanium gray-black-silver"
+        },
+        "isExactMatch": "true",
+        "mileage": "36,765",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4RAVFM6w_FX66ceTv9ZFe8uHs0xOAElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq6nlr1cJPyd51afpuuOq27MZvjF970BXk1F59VFY6MGpHpP2Xf_8x-JQvNjf_ehqitalJDz-n-7Tula_6W9NgrOin7o3uho9oeddEZdmsU28f-uTdO5PVc12fS90Ne9VupSVrrIkVX6bWCLoWlx64flHFnQ1W4vqIvbJql57F6HVf73Mtbw1hHMCupqVuhstw2d-_Cdf_lngw0e-Z2ZvdzxAV8Nyx2WHuQQzR66-S8GKHS-n7lmZboKuxmlzh5RSrpFr9un7-2_1Nl6zifFahK5mWnfPZL_U3n0Nz9fJis50PbCd_c0ZdDWZp1l1qmaa5xz1fvR6ywKlDV997WXR1Wgn7XQwlzg7YYKtl0zdw-sKsdm7T4LVwFN8SJCjX7Cbf5AvLIkyZ8BYLItgLB5jGIu9pwDE0oMn6CswFpNPAdyIJpjxLMGeUa4wYdYKuMlSqNnXKT8_JzUx76xCUcPVOb_eAbNvFCz7FjDArWKAOzo0yCc-wDHI0beEga-0KKcgsSgRmIOK8gvyABKBFT3UBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF8G1051872",
+        "weblink": "https://www.theaudiconnection.com/certified/Audi/2016-Audi-S3-81194de80a0e0a6b65ae97221d958730.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "33000.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Columbus",
+            "id": "USA03A61",
+            "localDealerId": "403A61",
+            "name": "Audi Columbus",
+            "phoneMobile": "+18886971962",
+            "state": "OH",
+            "street": "341 N Hamilton Rd",
+            "website": "www.audicolumbus.com",
+            "zipCode": "43213"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/37486e07-b770-426e-9faa-6a83d9d6791d.jpg",
+            "marketingName": "Mythos Black metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDNBNjFkYmIyNjhlNTBhMGUwYWU4MjUyMQ=",
+        "id": "VVNBMDNBNjFkYmIyNjhlNTBhMGUwYWU4MjUyMQ=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "24,113",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0ncfpNX-ZdIxlunke3exV4_2QW-JXMBElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq9m0TpKrQXKns9Z8Ce65t_a8XGurxoCuRvEgX3DzidJJxtb8PMJO56TqTp3vRldTtC4l4fH_dJ_WtfpNf2sSnBX91L3R1cQpa8lv6ZH0ut_rGb__C-uNZz3vmtHVzJtVeEs-0yqhPPwG65NzRcUfFrcyoqvZWlQXsU9W9dq7CK3-62Wu5a0hnBPQ1djVZdw6r6hlouTfOdW-IEXrGIsHN7oaljsuO8wlmDly9V0KVux4OXXPynQTdDXvpQquBjyv-njG-oWNvM_vfbuqLcPQ1fTpWRuuVbKKCN3T8-TdM-a7YWdY2dHVZJ5m1amaaZ5z1PvR6y0LlDZ89bWXRVejnbTTwVzi7IQJtl4ydQ-vK8Rm7z4JVgNP8SFBjn7Bbv5BvrAkypwBY7EsgrF4jGEs9p4CEEsPnqCvwFhMPgVwI5pgxrMEe0a5woRZK-AmS6FmX6f8_JzUxLyzCkUNV-f8egfMvlGw7FvAALeKAe7o0CCf-ADHIEffEga-0qKcgsSiRGAOKsovyAMAKUluv9QEAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF3G1052816",
+        "weblink": "https://www.audicolumbus.com/certified/Audi/2016-Audi-S3-for-sale-columbus-oh-dbb268e50a0e0ae825211e054eaaf967.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "33992.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Morton Grove",
+            "id": "USA02A32",
+            "localDealerId": "402A32",
+            "name": "Audi Morton Grove",
+            "phoneMobile": "+18887163347",
+            "state": "IL",
+            "street": "7000 Golf Road",
+            "website": "www.audimortongrove.com",
+            "zipCode": "60053"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/37486e07-b770-426e-9faa-6a83d9d6791d.jpg",
+            "marketingName": "Mythos Black metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDJBMzIxN2MyNzhhNzBhMGUwYTE3MjdkOA=",
+        "id": "VVNBMDJBMzIxN2MyNzhhNzBhMGUwYTE3MjdkOA=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "28,763",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0ncfpNX-ZdIxlunke3exV4_2QW-JXMBElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq9m0TpKrQXKns9Z8Ce65t_a8XGurxoCuRvEgX3DzidJJxtb8PMJO56TqTp3vRldTtC4l4fH_dJ_WtfpNf2sSnBX91L3R1cQpa8lv6ZH0ut_rGb__C-uNZz3vmtHVzJtVeEs-0yqhPPwG65NzRcUfFrcyoqvZWlQXsU9W9dq7CK3-62Wu5a0hnBPQ1djVZdw6r6hlouTfOdW-IEXrGIsHN7oaljsuO8wlmDly9V0KVux4OXXPynQTdDXvpQquBjyv-njG-oWNvM_vfbuqLcPQ1fTpWRuuVbKKCN3T8-TdM-a7YWdY2dHVZJ5m1amaaZ5z1PvR6y0LlDZ89bWXRVejnbTTwVzi7IQJtl4ydQ-vK8Rm7z4JVgNP8SFBjn7Bbv5BvrAkypwBY7EsgrF4jGEs9p4CEEsPnqCvwFhMPgVwI5pgxrMEe0a5woRZK-AmS6FmX6f8_JzUxLyzCkUNV-f8egfMvlGw7FvAALeKAe7o0CCf-ADHIEffEga-0qKcgsSiRGAOKsovyAMAKUluv9QEAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFFXG1072707",
+        "weblink": "https://www.audimortongrove.com/certified/Audi/2016-Audi-S3-17c278a70a0e0a1727d8b7d603bfe50a.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "32991.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Naperville",
+            "id": "USA02A33",
+            "localDealerId": "402A33",
+            "name": "Continental Audi of Naperville",
+            "phoneMobile": "+18889030059",
+            "state": "IL",
+            "street": "1527 Aurora Ave",
+            "website": "www.continentalnapervilleaudi.com",
+            "zipCode": "60540"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/37486e07-b770-426e-9faa-6a83d9d6791d.jpg",
+            "marketingName": "Mythos Black metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDJBMzM1MDQ5ZGMzYTBhMGUwYTE3MjdkOA=",
+        "id": "VVNBMDJBMzM1MDQ5ZGMzYTBhMGUwYTE3MjdkOA=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Red",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/2c58bd1a-a4f3-43f9-a885-91a21d9f9f74.jpg",
+            "marketingName": "magma red-black-magma red stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "27,584",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0ncfpNX-ZdIxlunke3exV4_2QW-JXMBElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq9m0TpKrQXKns9Z8Ce65t_a8XGurxoCuRvEgX3DzidJJxtb8PMJO56TqTp3vRldTtC4l4fH_dJ_WtfpNf2sSnBX91L3R1dxj1HzxfH7RqpeTJxRuKvv473qqjTC6mnmzCm_JZ1ollIffYH1yrqj4w-JWRnQ1DfVCKWdXPXu_uCXsneiUd8vyNj9iQ1djV5dx67yilomSf-dU-4IUrWMsHtzoaljuuOwwl2DmyNV3KVix4-XUPSvTTdDVvJcquBrwvOrjGesXNvI-v_ftqrYMQ1fTp2dtuFbJKiJ0T8-Td8-Y74adYWVHV5N5mlWnaqZ5zlHvR6-3LFDa8NXXXhZdjXbSTgdzibMTJth6ydQ9vK4Qm737JFgNPMWHBDn6Bbv5B_nCkihzBozFsgjG4jGGsdh7CkAsPXiCvgJjMfkUwI1oghnPEuwZ5QoTZq2AmyyFmn2d8vNzUhPzzioUNVyd8-sdMPtGwbJvAQPcKga4o0ODfOIDHIMcfUsY-EqLcgoSixKBOagovyAPAPOUY2zUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFFXG1035012",
+        "weblink": "https://www.continentalaudi.com/certified/Audi/2016-Audi-S3-Near-Chicago-5049dc3a0a0e0a1727d8b7d6392395a7.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "44580.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Johnston",
+            "id": "USA02B10",
+            "localDealerId": "402B10",
+            "name": "Audi Des Moines",
+            "phoneMobile": "+18887086299",
+            "state": "IA",
+            "street": "5190 Merle Hay Road",
+            "website": "www.audidesmoines.com",
+            "zipCode": "50131"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "White",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/1e416cc4-7807-49e4-b601-c76cc77d1e12.jpg",
+            "marketingName": "Glacier White metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDJCMTA0MGYxNTM0YTBhMGUwYTZiMWE3YQ=",
+        "id": "VVNBMDJCMTA0MGYxNTM0YTBhMGUwYTZiMWE3YQ=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "10,115",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4RAVFM6w_FX66ceTv9ZFe8uHs0xOAElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq6nlr1cJPyd51afpuuOq27MZvjF970BXk1F59VFY6MGpHpP2Xf_8x-JQvNjf_ehqitalJDz-n-7Tula_6W9NgrOin7o3uho9oeddEZdmsU28f-uTdO5PVc12fS90Ne9VupSVrrIkVX6bWCLoWlx64flHFnQ1DfVCKWdXPXu_uCXsneiUd8vyNj9iQ1ezUnejZfjMj__kyz8LfPjI98zs7Y4H6GpY7rjsMJdg5sjVdylYsePl1D0r003Q1Tht7pBSyjVyzT59f_-t3sZrNjFei9DVTOvumeyX2ruv4fk6WdGZrge2s785g64m8zSrTtVM85yj3o9eb1mgtOGrr70suhrtpJ0O5hJnJ0yw9ZKpe3hdITZ790mwGniKDwly9At28w_yhSVR5gwYi2URjMVjDGOx9xSAWHrwBH0FxmLyKYAb0QQzniXYM8oVJsxaATdZCjX7OuXn56Qm5p1VKGq4OufXO2D2jYJl3wIGuFUMcEeHBvnEBzgGOfqWMPCVFuUUJBYlAnNQUX5BHgAZDOtr1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF5G1016965",
+        "weblink": "http://www.audiofdesmoines.com/certified/Audi/2016-Audi-S3-serving-des-moines-40f1534a0a0e0a6b1a7af9e316f06a41.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "30907.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Omaha",
+            "id": "USA02F02",
+            "localDealerId": "402F02",
+            "name": "Audi Omaha",
+            "phoneMobile": "8882869271",
+            "state": "NE",
+            "street": "17340 Burt Street",
+            "website": "www.audiomaha.com",
+            "zipCode": "68118"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "White",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/1e416cc4-7807-49e4-b601-c76cc77d1e12.jpg",
+            "marketingName": "Glacier White metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDJGMDJjZjg2YTZjZjBhMGUwYWU3N2VhZQ=",
+        "id": "VVNBMDJGMDJjZjg2YTZjZjBhMGUwYWU3N2VhZQ=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Red",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/2c58bd1a-a4f3-43f9-a885-91a21d9f9f74.jpg",
+            "marketingName": "magma red-black-magma red stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "21,023",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4RAVFM6w_FX66ceTv9ZFe8uHs0xOAElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq9m0TpKrQXKns9Z8Ce65t_a8XGurxoCuJqPy6qOw0INTPSbtu_75j8WheLG_-9HVFK1LSXj8P92nda1-09-aBGdFP3VvdDVa25dMLzkvtdpoR-mMnZGHPVd-jTFFVzNvVuEt-UyrhPLwG6xPzhUVf1jcyoiuZmtRXcQ-WdVr7yK0-q-XuZa3hnBOQFezUnejZfjMj__kyz8LfPjI98zs7Y4H6GpY7rjsMJdg5sjVdylYsePl1D0r003Q1Tht7pBSyjVyzT59f_-t3sZrNjFei9DVPPizwvaAKkeIZi67Urzm99vbe8t10dVknmbVqZppnnPU-9HrLQuUNnz1tZdFV6OdtNPBXOLshAm2XjJ1D68rxGbvPglWA0_xIUGOfsFu_kG-sCTKnAFjsSyCsXiMYSz2ngIQSw-eoK_AWEw-BXAjmmDGswR7RrnChFkr4CZLoWZfp_z8nNTEvLMKRQ1X5_x6B8y-UbDsW8AAt4oB7ujQIJ_4AMcgR98SBr7SopyCxKJEYA4qyi_IAwDX_EjF1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF1G1054581",
+        "weblink": "https://www.audiomaha.com/certified/Audi/2016-Audi-S3-cf86a6cf0a0e0ae77eaea19e88471bbe.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "36880.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Hoffman Estates",
+            "id": "USA02A01",
+            "localDealerId": "402A01",
+            "name": "Audi Hoffman Estates",
+            "phoneMobile": "+18887363682",
+            "state": "IL",
+            "street": "1200 W Golf Rd",
+            "website": "www.audihoffmanestates.com",
+            "zipCode": "60169"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "White",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/1e416cc4-7807-49e4-b601-c76cc77d1e12.jpg",
+            "marketingName": "Glacier White metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDJBMDEzN2ZiYjBkNTBhMGUwYWRmMzM4Mg=",
+        "id": "VVNBMDJBMDEzN2ZiYjBkNTBhMGUwYWRmMzM4Mg=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "28,933",
+        "model": "Audi S3 Sedan Prestige 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4RAVFM6w_FX66ceTv9ZFe8uHs0xOAElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq9m0TpKrQXKns9Z8Ce65t_a8XGurxoCuJqPy6qOw0INTPSbtu_75j8WheLG_-9HVFK1LSXj8P92nda1-09-aBGdFP3VvdDVa25dMLzkvtdpoR-mMnZGHPVd-jTFFVzNvVuEt-UyrhPLwG6xPzhUVf1jcyoiupqFeKOXsqmfvF7eEvROd8m5Z3uZHbOhqVuputAyf-fGffPlngQ8f-Z6Zvd3xAF0Nyx2XHeYSzBy5-i4FK3a8nLpnZboJuhqnzR1SSrlGrtmn7--_1dt4zSbGaxG6mj49a8O1SlYRoXt6nrx7xnw37AwrO7qazNOsOlUzzXOOej96vWWB0oavvvay6Gq0k3Y6mEucnTDB1kum7uF1hdjs3SfBauApPiTI0S_YzT_IF5ZEmTNgLJZFMBaPMYzF3lMAYunBE_QVGIvJpwBuRBPMeJZgzyhXmDBrBdxkKdTs65Sfn5OamHdWoajh6pxf74DZNwqWfQsY4FYxwB0dGuQTH-AY5OhbwsBXWpRTkFiUCMxBRfkFeQAPnp6g1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Prestige",
+        "vin": "WAUF1GFF3G1080858",
+        "weblink": "https://www.audihoffmanestates.com/certified/Audi/2016-Audi-S3-37fbb0d50a0e0adf3382d3740f33a51b.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "33945.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Richfield",
+            "id": "USA02C07",
+            "localDealerId": "402C07",
+            "name": "Audi Richfield",
+            "phoneMobile": "8777633505",
+            "state": "MN",
+            "street": "1401 77th St. East",
+            "website": "www.audirichfield.com",
+            "zipCode": "55423"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Silver",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/642ad953-578e-4bf0-ab14-e3687dcad560.jpg",
+            "marketingName": "Florett Silver metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDJDMDcxODRhZjRhMzBhMGUwYTZiMGU4Yw=",
+        "id": "VVNBMDJDMDcxODRhZjRhMzBhMGUwYTZiMGU4Yw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "28,266",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nsY_HI7pHYufL6_nsHDtFnQwfW06dB5KQQlKzYU4Ov7-nbVucu-ltvXt7zL4XPJdEV7NpnSRXg-ROZ635Etxzb-15udZWjQFdzTzxQ1zuPMKLl2gJ_zweOilhhnZ7FbqaonUpCY__p_u0rtVv-luT4Kzop-6NribjseO-L2nJfXLv0oJLmjVnnL1XqYFh16zCW_KZVgnl4TdYn5wrKv6wuJURXU1DvVDK2VXP3i9uCXsnOuXdsrzNj9jQ1RzLtl_67t3OD4HtK6cV52RH8RgetUdXw3LHZYe5BDNHrr5LwYodL6fuWZlugq5m0u-D5y_8Zahxfqbs8GXX973vHL_Hoavp07M2XKtkFRG6p-fJu2fMd8POsLKjq8k8zapTNdM856j3o9dbFiht-OprL4uuRjtpp4O5xNkJE2y9ZOoeXleIzd59EqwGnuJDghz9gt38g3xhSZQ5A8ZiWQRj8RjDWOw9BSCWHjxBX4GxmHwK4EY0wYxnCfaMcoUJs1bATZZCzb5O-fk5qYl5ZxWKGq7O-fUOmH2jYNm3gAFuFQPc0aFBPvEBjkGOviUMfKVFOQWJRYnAHFSUX5AHAIiaTATUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFFXG1042297",
+        "weblink": "https://www.audirichfield.com/used/Audi/2016-Audi-S3-184af4a30a0e0a6b0e8c476ae4c15c61.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "31532.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Minneapolis",
+            "id": "USA02C02",
+            "localDealerId": "402C02",
+            "name": "Audi Minneapolis",
+            "phoneMobile": "+18889044843",
+            "state": "MN",
+            "street": "9393 Wayzata Blvd",
+            "website": "www.audiminneapolis.com",
+            "zipCode": "55426"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Gray",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/a5237329-5af7-43f8-b891-dadcddf50e02.jpg",
+            "marketingName": "Monsoon Gray metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDJDMDI5MTYwMDI1YzBhMGUwYWU3MWJhNg=",
+        "id": "VVNBMDJDMDI5MTYwMDI1YzBhMGUwYWU3MWJhNg=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "28,421",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nIW7x5fBpP2bb-Qkzz2ypWfv54-2FZ0ESUkhqNszJ4ff3tG2Lcze9rXdvj9n3gueS6Go2rZPkapDc6aw1X4J77q09L9faqjGgqxGZN-X936qIqzablzx1M9ll6Pgvci66mqJ1KQmP_6f7tK7Vb_pbk-Cs6Kfuja4mTllLfkuPpNf9Xs_4_V9YbzzredeMrmberMJb8plWCeXhN1ifnCsq_rC4lRFdzdaiuoh9sqrX3kVo9V8vcy1vDeGcgK6Gl6nkXtHXGPb4vSLaTK-3_IxvPdSNrobljssOcwlmjlx9l4IVO15O3bMy3QRdzb9dd-53bDmWy7Y-2-ezWKFJ4-P1hehq-vSsDdcqWUWE7ul58u4Z892wM6zs6GoyT7PqVM00zznq_ej1lgVKG7762suiq9FO2ulgLnF2wgRbL5m6h9cVYrN3nwSrgaf4kCBHv2A3_yBfWBJlzoCxWBbBWDzGMBZ7TwGIpQdP0FdgLCafArgRTTDjWYI9o1xhwqwVcJOlULOvU35-Tmpi3lmFooarc369A2bfKFj2LWCAW8UAd3RokE98gGOQo28JA19pUU5BYlEiMAcV5RfkAQAYdyBl1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF4G1063016",
+        "weblink": "https://www.audiminneapolis.com/certified/Audi/2016-Audi-S3-Minneapolis-9160025c0a0e0ae71ba6c3c28ab141fa.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "28499.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Minneapolis",
+            "id": "USA02C02",
+            "localDealerId": "402C02",
+            "name": "Audi Minneapolis",
+            "phoneMobile": "+18889044843",
+            "state": "MN",
+            "street": "9393 Wayzata Blvd",
+            "website": "www.audiminneapolis.com",
+            "zipCode": "55426"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Gray",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/a5237329-5af7-43f8-b891-dadcddf50e02.jpg",
+            "marketingName": "Monsoon Gray metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMDJDMDJmYTAxNmI2ZTBhMGUwYWU3MjMwZQ=",
+        "id": "VVNBMDJDMDJmYTAxNmI2ZTBhMGUwYWU3MjMwZQ=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "44,824",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nIW7x5fBpP2bb-Qkzz2ypWfv54-2FZ0ESUkhqNszJ4ff3tG2Lcze9rXdvj9n3gueS6Go2rZPkapDc6aw1X4J77q09L9faqjGgqxGZN-X936qIqzablzx1M9ll6Pgvci66mqJ1KQmP_6f7tK7Vb_pbk-Cs6Kfuja4mTllLfkuPpNf9Xs_4_V9YbzzredeMrmberMJb8plWCeXhN1ifnCsq_rC4lRFdzdaiuoh9sqrX3kVo9V8vcy1vDeGcgK6Gl6nkXtHXGPb4vSLaTK-3_IxvPdSNrobljssOcwlmjlx9l4IVO15O3bMy3QRdzb9dd-53bDmWy7Y-2-ezWKFJ4-P1hehq-vSsDdcqWUWE7ul58u4Z892wM6zs6GoyT7PqVM00zznq_ej1lgVKG7762suiq9FO2ulgLnF2wgRbL5m6h9cVYrN3nwSrgaf4kCBHv2A3_yBfWBJlzoCxWBbBWDzGMBZ7TwGIpQdP0FdgLCafArgRTTDjWYI9o1xhwqwVcJOlULOvU35-Tmpi3lmFooarc369A2bfKFj2LWCAW8UAd3RokE98gGOQo28JA19pUU5BYlEiMAcV5RfkAQAYdyBl1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF1G1050059",
+        "weblink": "https://www.audiminneapolis.com/certified/Audi/2016-Audi-S3-Minneapolis-fa016b6e0a0e0ae7230e7abbae3e4ff9.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "33791.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Kansas City",
+            "id": "USA24A03",
+            "localDealerId": "424A03",
+            "name": "Kansas City Audi",
+            "phoneMobile": "+18887190392",
+            "state": "MO",
+            "street": "10330 Madison Ave",
+            "website": "www.molleaudi.com",
+            "zipCode": "64114"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "White",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/1e416cc4-7807-49e4-b601-c76cc77d1e12.jpg",
+            "marketingName": "Glacier White metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMjRBMDNlODg1ZjhlMDBhMGUwYTZiMGIxMw=",
+        "id": "VVNBMjRBMDNlODg1ZjhlMDBhMGUwYTZiMGIxMw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "32,540",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4RAVFM6w_FX66ceTv9ZFe8uHs0xOAElIIanZMCeH39_Tti3O3fS23r09Zt8Lnkuiq6nlr1cJPyd51afpuuOq27MZvjF970BXk1F59VFY6MGpHpP2Xf_8x-JQvNjf_ehqitalJDz-n-7Tula_6W9NgrOin7o3uho9oeddEZdmsU28f-uTdO5PVc12fS90Ne9VupSVrrIkVX6bWCLoWlx64flHFnQ1W4vqIvbJql57F6HVf73Mtbw1hHMCupqVuhstw2d-_Cdf_lngw0e-Z2ZvdzxAV8Nyx2WHuQQzR66-S8GKHS-n7lmZboKuxmlzh5RSrpFr9un7-2_1Nl6zifFahK5mWnfPZL_U3n0Nz9fJis50PbCd_c0ZdDWZp1l1qmaa5xz1fvR6ywKlDV997WXR1Wgn7XQwlzg7YYKtl0zdw-sKsdm7T4LVwFN8SJCjX7Cbf5AvLIkyZ8BYLItgLB5jGIu9pwDE0oMn6CswFpNPAdyIJpjxLMGeUa4wYdYKuMlSqNnXKT8_JzUx76xCUcPVOb_eAbNvFCz7FjDArWKAOzo0yCc-wDHI0beEga-0KKcgsSgRmIOK8gvyABKBFT3UBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF9G1104918",
+        "weblink": "https://www.kansascityaudi.com/certified/Audi/2016-Audi-S3-e885f8e00a0e0a6b0b1328df2cfa4ae5.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "38987.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Austin",
+            "id": "USA25A74",
+            "localDealerId": "425A74",
+            "name": "Audi South Austin",
+            "phoneMobile": "8883559034",
+            "state": "TX",
+            "street": "4738 S. Ih 35 Frontage Rd.",
+            "website": "www.audisouthaustin.com",
+            "zipCode": "78745"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Silver",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/642ad953-578e-4bf0-ab14-e3687dcad560.jpg",
+            "marketingName": "Florett Silver metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMjVBNzRkZjdhOTJkZDBhMGUwYTE3NTk3Yw=",
+        "id": "VVNBMjVBNzRkZjdhOTJkZDBhMGUwYTE3NTk3Yw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "6,472",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nsY_HI7pHYufL6_nsHDtFnQwfW06dB5KQQlKzYU4Ov7-nbVucu-ltvXt7zL4XPJdEV7NpnSRXg-ROZ635Etxzb-15udZWjQFdzTzxQ1zuPMKLl2gJ_zweOilhhnZ7FbqaonUpCY__p_u0rtVv-luT4Kzop-6NrkZr-5LpJeelVhvtKJ2xM_Kw58qvMaYYds0qvCWfaZVQHn6D9cm5ouIPi1sZ0dVsLaqL2Cereu1dhFb_9TLX8tYQzgnoao5l2y99927nh8D2ldOKc7KjeAyP2qOrYbnjssNcgpkjV9-lYMWOl1P3rEw3QVcz6ffB8xf-MtQ4P1N2-LLr-953jt_j0NX06VkbrlWyigjd0_Pk3TPmu2FnWNnR1WSeZtWpmmmec9T70estC5Q2fPW1l0VXo52008Fc4uyECbZeMnUPryvEZu8-CVYDT_EhQY5-wW7-Qb6wJMqcAWOxLIKxeIxhLPaeAhBLD56gr8BYTD4FcCOaYMazBHtGucKEWSvgJkuhZl-n_Pyc1MS8swpFDVfn_HoHzL5RsOxbwAC3igHu6NAgn_gAxyBH3xIGvtKinILEokRgDirKL8gDAD81WM3UBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF3G1030444",
+        "year": 2016
+    },
+    {
+        "askingPrice": "27217.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Austin",
+            "id": "USA25A74",
+            "localDealerId": "425A74",
+            "name": "Audi South Austin",
+            "phoneMobile": "8883559034",
+            "state": "TX",
+            "street": "4738 S. Ih 35 Frontage Rd.",
+            "website": "www.audisouthaustin.com",
+            "zipCode": "78745"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Gray",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/a5237329-5af7-43f8-b891-dadcddf50e02.jpg",
+            "marketingName": "Monsoon Gray metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMjVBNzQzMDRhYzllMTBhMGUwYTZiMGU4Yw=",
+        "id": "VVNBMjVBNzQzMDRhYzllMTBhMGUwYTZiMGU4Yw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/d1fae6be-2be0-4941-b73a-378ce345a1c4.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "18,181",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nIW7x5fBpP2bb-Qkzz2ypWfv54-2FZ0ESUkhqNszJ4ff3tG2Lcze9rXdvj9n3gueS6Gpq-etVws9JXvVpuu646vZshm9M3zvQ1YjMm_L-b1XEVZvNS566mewydPwXORddTdG6lITH_9N9WtfqN_2tSXBW9FP3RlejJ_S8K-LSLLaJ9299ks79qarZru-Frua9Spey0lWWpMpvE0sEXYtLLzz_yIKupqFeKOXsqmfvF7eEvROd8m5Z3uZHbOhqeJlK7hV9jWGP3yuizfR6y8_41kPd6GpY7rjsMJdg5sjVdylYsePl1D0r003Q1fzbded-x5ZjuWzrs30-ixWaND5eX4iuZrVf0BZ1CdWnWnNUTVi6b5fXaocbo6vJPM2qUzXTPOeo96PXWxYobfjqay-LrkY7aaeDucTZCRNsvWTqHl5XiM3efRKsBp7iQ4Ic_YLd_IN8YUmUOQPGYlkEY_EYw1jsPQUglh48QV-BsZh8CuBGNMGMZwn2jHKFCbNWwE2WQs2-Tvn5OamJeWcVihquzvn1Dph9o2DZt4ABbhUD3NGhQT7xAY5Bjr4lDHylRTkFiUWJwBxUlF-QBwAuYKXj1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF5G1067561",
+        "weblink": "https://www.audisouthaustin.com/certified/Audi/2016-Audi-S3-austin-tx-304ac9e10a0e0a6b0e8c476a02144005.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "31995.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Mckinney",
+            "id": "USA25A77",
+            "localDealerId": "425A77",
+            "name": "Audi McKinney",
+            "phoneMobile": "8882300634",
+            "state": "TX",
+            "street": "6650 State Highway 121",
+            "website": "www.AudiMcKinney.com",
+            "zipCode": "75070"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Red",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/ba83e75f-935d-4245-840c-b50034bdafbf.jpg",
+            "marketingName": "Misano Red pearl"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMjVBNzdkMmExZWJlMDBhMGUwYTE3MTM3Nw=",
+        "id": "VVNBMjVBNzdkMmExZWJlMDBhMGUwYTE3MTM3Nw=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/d1fae6be-2be0-4941-b73a-378ce345a1c4.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "30,106",
+        "model": "Audi S3 Sedan Prestige 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0n4dlUY6mX6iLZaikT8EdxL88tAc1ykIQUkpoNc3L4_T1t2-LcTW_r3dtj9r3guSS6mlr-epXwc5JXfZquO666PZvhG9P3DnQ1zivtH-6e3ft29v6puj2iDw_9ZkwsRldTtC4l4fH_dJ_WtfpNf2sSnBX91L3R1egJPe-KuDSLbeL9W5-kc3-qarbre6Grea_Spax0lSWp8tvEEkHX4tILzz-yoKtpqBdKObvq2fvFLWHvRKe8W5a3-REbupppeicKeH_ax1Rd0lh6kI1j28t8qbXoaljuuOwwl2DmyNV3KVix4-XUPSvTTdDVVHyb8qezs8nRaPd82fX2S6e-vOBphK5m48OwOOlvYicL7FeKOsslSQbtf3QYXU3maVadqpnmOUe9H73eskBpw1dfe1l0NdpJOx3MJc5OmGDrJVP38LpCbPbuk2A18BQfEuToF-zmH-QLS6LMGTAWyyIYi8cYxmLvKQCx9OAJ-gqMxeRTADeiCWY8S7BnlCtMmLUCbrIUavZ1ys_PSU3MO6tQ1HB1zq93wOwbBcu-BQxwqxjgjg4N8okPcAxy9C1h4CstyilILEoE5qCi_II8AK17HUPUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Prestige",
+        "vin": "WAUF1GFF9G1064776",
+        "weblink": "https://www.audimckinney.com/certified/Audi/2016-Audi-S3-d2a1ebe00a0e0a171377b1d8fdfd51e8.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "35995.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Selma",
+            "id": "USA25A10",
+            "localDealerId": "425A10",
+            "name": "Audi North Park",
+            "phoneMobile": "8443397078",
+            "state": "TX",
+            "street": "15670 Interstate 35 N",
+            "website": "www.audinorthpark.com",
+            "zipCode": "78154"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Gray",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/a5237329-5af7-43f8-b891-dadcddf50e02.jpg",
+            "marketingName": "Monsoon Gray metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMjVBMTBmMzY0ZDNjMjBhMGUwYWU5MjM0NA=",
+        "id": "VVNBMjVBMTBmMzY0ZDNjMjBhMGUwYWU5MjM0NA=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/d1fae6be-2be0-4941-b73a-378ce345a1c4.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "13,630",
+        "model": "Audi S3 Sedan Prestige 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nIW7x5fBpP2bb-Qkzz2ypWfv54-2FZ0ESUkhqNszJ4ff3tG2Lcze9rXdvj9n3gueS6Gpq-etVws9JXvVpuu646vZshm9M3zvQ1YjMm_L-b1XEVZvNS566mewydPwXORddTdG6lITH_9N9WtfqN_2tSXBW9FP3RlejJ_S8K-LSLLaJ9299ks79qarZru-Frua9Spey0lWWpMpvE0sEXYtLLzz_yIKupqFeKOXsqmfvF7eEvROd8m5Z3uZHbOhqeJlK7hV9jWGP3yuizfR6y8_41kPd6GpY7rjsMJdg5sjVdylYsePl1D0r003Q1fzbded-x5ZjuWzrs30-ixWaND5eX4iuZrVf0BZ1CdWnWnNUTVi6b5fXaocbo6vJPM2qUzXTPOeo96PXWxYobfjqay-LrkY7aaeDucTZCRNsvWTqHl5XiM3efRKsBp7iQ4Ic_YLd_IN8YUmUOQPGYlkEY_EYw1jsPQUglh48QV-BsZh8CuBGNMGMZwn2jHKFCbNWwE2WQs2-Tvn5OamJeWcVihquzvn1Dph9o2DZt4ABbhUD3NGhQT7xAY5Bjr4lDHylRTkFiUWJwBxUlF-QBwAuYKXj1AQAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Prestige",
+        "vin": "WAUF1GFF1G1053030",
+        "weblink": "https://www.audinorthpark.com/certified/Audi/2016-Audi-S3-f364d3c20a0e0ae923444241d61a218d.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "31396.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Lakewood",
+            "id": "USA20B09",
+            "localDealerId": "420B09",
+            "name": "Prestige Audi",
+            "phoneMobile": "+18887038544",
+            "state": "CO",
+            "street": "9201 W Colfax Ave",
+            "website": "www.prestigeaudi.com",
+            "zipCode": "80215"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Silver",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/642ad953-578e-4bf0-ab14-e3687dcad560.jpg",
+            "marketingName": "Florett Silver metallic"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMjBCMDlmOThmODA4YTBhMGUwYWRmNjJhYg=",
+        "id": "VVNBMjBCMDlmOThmODA4YTBhMGUwYWRmNjJhYg=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/f793b6a6-91b1-4940-b431-9fb229d9f53b.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "31,425",
+        "model": "Audi S3 Sedan Premium Plus 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nsY_HI7pHYufL6_nsHDtFnQwfW06dB5KQQlKzYU4Ov7-nbVucu-ltvXt7zL4XPJdEV7NpnSRXg-ROZ635Etxzb-15udZWjQFdzTzxQ1zuPMKLl2gJ_zweOilhhnZ7FbqaonUpCY__p_u0rtVv-luT4Kzop-6NriZOWUt-S4-k1_1ez_j9X1hvPOt514xh16zCW_KZVgnl4TdYn5wrKv6wuJURXc3WorqIfbKq195FaPVfL3Mtbw3hnICu5li2_dJ373Z-CGxfOa04JzuKx_CoPboaljsuO8wlmDly9V0KVux4OXXPynQTdDWTfh88f-EvQ43zM2WHL7u-733n-D0OXU2fnrXhWiWriNA9PU_ePWO-G3aGlR1dTeZpVp2qmeY5R70fvd6yQGnDV197WXQ12kk7Hcwlzk6YYOslU_fwukJs9u6TYDXwFB8S5OgX7OYf5AtLoswZMBbLIhiLxxjGYu8pALH04An6CozF5FMAN6IJZjxLsGeUK0yYtQJushRq9nXKz89JTcw7q1DUcHXOr3fA7BsFy74FDHCrGOCODg3yiQ9wDHL0LWHgKy3KKUgsSgTmoKL8gjwAWtJPWtQEAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Premium Plus",
+        "vin": "WAUB1GFF1G1053155",
+        "weblink": "https://www.prestigeaudi.com/certified/Audi/2016-Audi-S3-for-sale-denver-colorado-f98f808a0a0e0adf62aba4d91eba09fc.htm",
+        "year": 2016
+    },
+    {
+        "askingPrice": "41000.00",
+        "body": "Saloon",
+        "bodyStyle": "Sedan",
+        "carline": "S3",
+        "consumption": {
+            "city": "23",
+            "highway": "31"
+        },
+        "cpo": true,
+        "dealer": {
+            "city": "Broomfield",
+            "id": "USA20B06",
+            "localDealerId": "420B06",
+            "name": "Audi Flatirons",
+            "phoneMobile": "+18889037210",
+            "state": "CO",
+            "street": "13321 W Midway Blvd",
+            "website": "www.audiflatirons.com",
+            "zipCode": "80020"
+        },
+        "distance": 0.0,
+        "drivetrain": "quattro\u00ae all-wheel drive",
+        "engine": "2.0 TFSI\u00ae",
+        "exteriorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/141fa1ab-c31c-4480-9757-769748655517.jpg",
+            "marketingName": "Brilliant Black"
+        },
+        "href": "http://vtpapi.audi.de/restapi/v1/ausgwb/datastore/cars/VVNBMjBCMDZjOWRjZDZkNDBhMGUwYTE3MzNhYQ=",
+        "id": "VVNBMjBCMDZjOWRjZDZkNDBhMGUwYTE3MzNhYQ=",
+        "inTransit": "1",
+        "interiorColor": {
+            "generic": "Black",
+            "imageUrl": "http://mediaservice.audi.com/media/cdb/data/d1fae6be-2be0-4941-b73a-378ce345a1c4.jpg",
+            "marketingName": "black-black-dark silver stitching"
+        },
+        "isExactMatch": "true",
+        "mileage": "8,004",
+        "model": "Audi S3 Sedan Prestige 2.0 TFSI quattro 292 HP S tronic",
+        "profileImage": {
+            "height": 480,
+            "imageUrl": "http://mediaservice.audi.com/media/fast/H4sIAAAAAAAAAFvzloG1tIhBPNonK7EsUS8zXy84tSgzMSezKjEpJ9V63QXONcHX33oyMTBUFDAwMHjWFTFYJufn6iXn5-Wk5hfrFaXmpaQWFacWlWUmpwK15yQCBYEKcvPzoCZ5pOYUpBaphFQWpDJAgRDQtCIGPrCNOYl56XqueaW5yJIFJQwcXgGu7vE-nk4lDMwFeel1hQx1DEwlDDxg4cBQRx_PkMjiIgZBhCGeeSWp6alFQo8WLPne2G7BxMDoycBalphTmgq0TAChzq80Nym1qG3NVFnuKQ-6YT5LgdnA6evp6xofEhngCmRn5iamp-oj2c_l5OjsHe_s7-MfBAw2pminNZ_Ff7BxhDyAmcP8__9_mGLeAE_nkNAg13jHoCDHyGKQKCdQCT9Mnh0qD_SHMRGBmpeXmlySX6TnkVic4ZyfAgtORiYGVk8GpnJDEGEEIoxBhAmIMK0o-HxQ7fGkr8q8s4M_LPCt_zZ54V-pAyUM3InGuqkVJbp5qbn5INeIgV0nkSe4s_fI5PaZ7wqrt8-3U0wo8L-2DCQhhaRmw5wcfn9P27Y4d9Pbevf2mH0veC6JrqaWv14l_JzkVZ-m646rbs9m-Mb0vQNdzYJEyTAj2_wJT3Sklqysvzu94mzbQ3Q1RetSEh7_T_dpXavf9LcmwVnRT90bXY2e0POuiEuz2Cbev_VJOvenqma7vhe6mvcqXcpKV1mSKr9NLBF0LS698PwjC7qahnqhlLOrnr1f3BL2TnTKu2V5mx-xoav5e87v29fb3JvkPVQP3_dTTWVrvteLrobljssOcwlmjlx9l4IVO15O3bMy3QRdTWXh2h3qs1adejGr5s8L669-olcMbNDV3DRfEqnFx1DJ-e_Yz7gT27X1un5ghE_maVadqpnmOUe9H73eskBpw1dfe1l0NdpJOx3MJc5OmGDrJVP38LpCbPbuk2A18BQfEuToF-zmH-QLS6LMGTAWyyIYi8cYxmLvKQCx9OAJ-gqMxeRTADeiCWY8S7BnlCtMmLUCbrIUavZ1ys_PSU3MO6tQ1HB1zq93wOwbBcu-BQxwqxjgjg4N8okPcAxy9C1h4CstyilILEoE5qCi_II8AAqBGAvUBAAA",
+            "width": 640
+        },
+        "transmission": "Six-speed S tronic\u00ae dual-clutch automatic transmission",
+        "trim": "Prestige",
+        "vin": "WAUF1GFF0G1046702",
+        "year": 2016
+    }
+]

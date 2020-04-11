@@ -1,0 +1,24 @@
+.cars {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.car ul {
+  margin: 3px 0;
+  padding: 0;
+}
+
+.car {
+  margin: 15px 15px 0 0;
+}
+
+.controls {
+  margin-top:15px;
+  padding: 0 10px;
+}
+
+.controls > * {
+  margin-right:10px;
+}
